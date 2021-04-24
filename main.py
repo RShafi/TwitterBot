@@ -1,5 +1,4 @@
-# Module that builds a model and generates text utilziing the methods from our other python modules located in this project folder
-# Entry point to our project
+# Module that builds a model and generates text utilziing the methods from our other python modules located in this project folde
 
 import src.text_preprocessing as text_preprocessing
 import src.sequences as sequences
